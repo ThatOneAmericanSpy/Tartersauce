@@ -20,4 +20,8 @@ cd Tartersauce
 makepkg -si
 ```
 
-Now anytime you double click a pkg.tar.zst file Tartersauce's GUI should prompt you to install the package. Currently uninstalling is not available for Tartersauce but may eventually be added.
+Now anytime you double click a pkg.tar.zst file Tartersauce's GUI should prompt you to install the package. Currently uninstalling is not available for Tartersauce but may eventually be added. If it doesn't work automatically, right click the file then select "run with" and select Tartersauce.
+
+<sub>File manager used is Thunar, resuts may vary for other file managers.</sub>
+
+<img width="727" height="480" alt="Screenshot_20261009_124956" src="https://github.com/user-attachments/assets/cb070451-23b5-4fd8-bb96-fe7e551564fc" />
