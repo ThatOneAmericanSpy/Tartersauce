@@ -16,7 +16,7 @@ Then run the following command in your terminal:
 
 ```
 git clone https://github.com/ThatOneAmericanSpy/Tartersauce.git
-cd Tartersauce
+cd Tartersauce/contents
 makepkg -si
 ```
 
