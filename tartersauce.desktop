@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Tartarsauce
+Exec=/usr/bin/tartersauce.sh %f
+Terminal=false
+NoDisplay=true
+MimeType=application/x-tar;application/x-compressed-tar;application/x-bzip-compressed-tar;application/x-xz-compressed-tar;
+Icon=/usr/bin/tartersauce.png
+Comment=
+Path=
+StartupNotify=false
